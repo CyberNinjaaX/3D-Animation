@@ -4,8 +4,8 @@ A simple and elegant **3D flip card effect** built using only **HTML & CSS**.
 The card smoothly flips on hover, revealing the back side with a realistic 3D perspective.
 
 📸 Preview
-<img width="1574" height="772" alt="p1" src="https://github.com/user-attachments/assets/cd58c10c-8b9b-4e28-a881-c6a716a2bb84" />
-<img width="1568" height="772" alt="p2" src="https://github.com/user-attachments/assets/c8284f33-d409-4454-b166-06f6a1f45118" />
+<img width="1578" height="759" alt="pp1" src="https://github.com/user-attachments/assets/2ec73d61-2be8-4ee0-962d-ef79f5317aca" />
+<img width="1565" height="754" alt="pp2" src="https://github.com/user-attachments/assets/1a33ae9c-e7fd-46dc-9185-88e0b710e142" />
 
 ---
 
